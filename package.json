@@ -1,16 +1,16 @@
 {
-  "name": "@frctl/twig",
-  "version": "1.0.2",
-  "description": "Twig template adapter for Fractal.",
+  "name": "@frctl/twig-drupal",
+  "version": "1.0",
+  "description": "Drupal Twig template adapter for Fractal and Drupal 8. This adapter makes possible to include fractal templates in Drupal 8 projects template.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frctl/twig.git"
+    "url": "https://github.com/WondrousLLC/twig-drupal.git"
   },
-  "author": "Mark Perkins <mark@clearleft.com> (http://clearleft.com/)",
+  "author": ["Rainer Friedrich <rainer@wearewondrous.ch> (http://wearewondrous.com/)"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frctl/twig/issues"
+    "url": "https://github.com/WondrousLLC/twig-drupal/issues"
   },
   "homepage": "https://github.com/frctl/twig",
   "dependencies": {
